@@ -1,0 +1,9 @@
+{
+  "name": "rich-md-editor",
+  "version": "0.0.1",
+  "description": "The Richmd Markdown Editor.",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "richmd": "^2.2.7"
+  }
+}
